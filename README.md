@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ali Qasimi
 - 👀 I’m interested in Networking, Devops and Cloud
+- 💻 Here you can find programs I have developed in my spare time or at work
 - 📫 You can find me on Linkedin with the same name!
 
 <!---
