@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ali Qasimi
 - 👀 I’m interested in Devops & Network Automation
-- 💻 Here you can find programs I have developed in my spare time or at work
+- 💻 Here you can find programs I have developed in my spare time
 - 📫 Feel free to reach out to me on Linkedin with the same name!
 
 <!---
