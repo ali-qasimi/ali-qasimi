@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Ali Qasimi
-- 👀 I’m interested in Devops
-- 💻 Here you can find some projects I have developed in my spare time
+- 💻 Here you can find some of my personal projects
 - 📫 Feel free to reach out to me on Linkedin!
 
 <!---
